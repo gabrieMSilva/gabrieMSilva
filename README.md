@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt ="CSS" align="center"/>
 
 </div><br/>
-Apaixonado por tecnologia, progamaçao e design
+Apaixonado por tecnologia, progamaçâo e design
